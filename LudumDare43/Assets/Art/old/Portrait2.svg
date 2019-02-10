@@ -1,0 +1,14 @@
+<svg id="Ebene_1" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ed1c24;
+      }
+    </style>
+  </defs>
+  <title>Portrait2</title>
+  <g>
+    <rect class="cls-1" x="2" y="2" width="96" height="96" rx="10"/>
+    <path d="M88,4a8,8,0,0,1,8,8V88a8,8,0,0,1-8,8H12a8,8,0,0,1-8-8V12a8,8,0,0,1,8-8H88m0-4H12A12,12,0,0,0,0,12V88a12,12,0,0,0,12,12H88a12,12,0,0,0,12-12V12A12,12,0,0,0,88,0Z"/>
+  </g>
+</svg>

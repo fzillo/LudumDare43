@@ -1,0 +1,24 @@
+<svg id="Ebene_1" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 61 74.93">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #8c6239;
+      }
+    </style>
+  </defs>
+  <title>Hut</title>
+  <rect class="cls-1" x="0.5" y="18.43" width="60" height="56"/>
+  <line class="cls-2" x1="0.5" y1="18.43" x2="30.5" y2="0.43"/>
+  <line class="cls-2" x1="60.5" y1="18.43" x2="30.5" y2="0.43"/>
+  <line class="cls-1" x1="0.5" y1="74.43" x2="60.5" y2="18.43"/>
+  <line class="cls-1" x1="60.5" y1="74.43" x2="0.5" y2="18.43"/>
+</svg>

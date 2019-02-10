@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Drop
+  - Canvas
+  - TreeSpawn
+  - SchafImage
+  - Sonne
+  - Baum
+  - TreeGreen
+  - TreeBlue
+  - TreePink
+  - ChickenWhite
+  - ChickenBrown
+  - ChickenBlue
+  - AlpacaBrown
+  - AlpacaGrey
+  - AlpacaWhite
+  - SheepWhite
+  - SheepGrey
+  - SheepYellow
+  - HutPink
+  - HutBrown
+  - HutYellow
+  - Schaf
+  - Undefined
+  - Huhn
+  - AlpacaSpawn
+  - ChickenSpawn
+  - HutSpawn
+  - SheepSpawn
+  - Fruchtbarkeit
+  - Rain
+  - Pfeil
+  - recepieBook
+  - Fruit
+  - Fog
+  - effectRain
+  - effectSun
+  - effectLove
+  - effectFruit
+  - effectMist
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - SpawnObjects
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 4091564919
+    locked: 0
+  - name: midground
+    uniqueID: 1229758203
+    locked: 0
+  - name: foreground
+    uniqueID: 76451941
+    locked: 0
+  - name: interface
+    uniqueID: 1174706715
+    locked: 0

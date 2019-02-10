@@ -1,0 +1,28 @@
+<svg id="Ebene_1" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 79.97 63.55">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <title>Sheep</title>
+  <g>
+    <ellipse class="cls-1" cx="50.47" cy="22" rx="29" ry="21.5"/>
+    <path d="M59.5,23C75.21,23,88,32.42,88,44S75.21,65,59.5,65,31,55.58,31,44,43.79,23,59.5,23m0-1C43.21,22,30,31.85,30,44S43.21,66,59.5,66,89,56.15,89,44,75.79,22,59.5,22Z" transform="translate(-9.03 -22)"/>
+  </g>
+  <g>
+    <circle class="cls-1" cx="16.97" cy="19" r="16.47"/>
+    <path d="M26,25A16,16,0,1,1,10,41,16,16,0,0,1,26,25m0-1A17,17,0,1,0,43,41,17,17,0,0,0,26,24Z" transform="translate(-9.03 -22)"/>
+  </g>
+  <line class="cls-2" x1="28.47" y1="36.5" x2="17.47" y2="58.5"/>
+  <line class="cls-2" x1="36.47" y1="40.5" x2="36.47" y2="63.5"/>
+  <line class="cls-2" x1="62.47" y1="41.5" x2="64.47" y2="63.5"/>
+  <line class="cls-2" x1="71.47" y1="36.5" x2="79.47" y2="58.5"/>
+</svg>
